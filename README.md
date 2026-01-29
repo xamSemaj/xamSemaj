@@ -1,6 +1,6 @@
 ## Hello My Name is Max!
 
-![Ricardo dancing]([PASTE_DIRECT_GIF_URL_HERE](https://media1.tenor.com/images/e7cefdcb876b0c162327ac983dfe8ef8/tenor.gif?itemid=14049330))
+![Ricardo dancing](https://c.tenor.com/kp786n65hYwAAAAd/tenor.gif)
 
 
 
