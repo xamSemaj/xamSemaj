@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![snake animation](https://raw.githubusercontent.com/xamSemaj/xamSemaj/output/github-contribution-grid-snake.svg)
 <!--
 **xamSemaj/xamSemaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
